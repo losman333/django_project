@@ -1,1 +1,1 @@
-web: gunicorn lostkawzlifestyle1.wsgi:application --log-file -
+web: gunicorn pattysblog.wsgi:application --log-file -
