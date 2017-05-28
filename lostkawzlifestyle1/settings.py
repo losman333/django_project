@@ -121,7 +121,7 @@ THUMBNAIL_PROCESSORS = (
     'easy_thumbnails.processors.background',
 )
 
-ROOT_URLCONF = 'lostkawzlifestyle1.urls'
+ROOT_URLCONF = 'pattysblog.urls'
 
 TEMPLATES = [
     {
