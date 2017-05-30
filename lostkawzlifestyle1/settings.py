@@ -121,7 +121,7 @@ THUMBNAIL_PROCESSORS = (
     'easy_thumbnails.processors.background',
 )
 
-ROOT_URLCONF = 'pattysblog.urls'
+ROOT_URLCONF = 'lostkawzlifestyle1.urls'
 
 TEMPLATES = [
     {
@@ -142,7 +142,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'pattysblog.wsgi.application'
+WSGI_APPLICATION = 'lostkawzlifestyle1.wsgi.application'
 
 
 # Database
